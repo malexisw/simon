@@ -1,5 +1,13 @@
 # simon
 
-##Description
+## Description
 
-This is a small projekt that display the simon
+This project mimic the board game called Simon.
+
+## Techno
+
+VueJS Javascript HTML5 CSS SCSS
+
+## Tools
+
+Visual Studio Code
